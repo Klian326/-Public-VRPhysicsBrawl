@@ -5,6 +5,7 @@
 * [Wiki](https://github.com/Klian326/-Public-VRPhysicsBrawl/wiki)
 * [Video](https://youtu.be/g3Pq7pCzxwU)
 * [PerformanceVideo](https://youtu.be/FwX9Ymq3xh8)
+* [Free UE4 animations](https://sketchfab.com/klian/collections/vrpb-gettingup-ue4-animations-3ee5977c40644352b1560c74a6fb72cc)
 
 ## Community
 
